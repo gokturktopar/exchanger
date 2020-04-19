@@ -1,0 +1,14 @@
+{
+  "name": "exhchanger",
+  "version": "1.0.0",
+  "description": "This package convert different currencies to each others",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gokturk Topar",
+  "license": "MIT",
+  "dependencies": {
+    "https": "^1.0.0"
+  }
+}
